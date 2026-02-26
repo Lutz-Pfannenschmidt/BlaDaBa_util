@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KlaDaBa utils
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Enable middle-click to open submission rows in new tabs
 // @author       Lutz Pfannenschmidt
 // @match        https://db.fachschaft.tf/submission/*
