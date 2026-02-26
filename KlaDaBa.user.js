@@ -6,9 +6,9 @@
 // @author       Lutz Pfannenschmidt
 // @match        https://db.fachschaft.tf/submission/*
 // @grant        none
-// @updateURL   https://raw.githubusercontent.com/Lutz-Pfannenschmidt/BlaDaBa_util/refs/heads/main/KlaDaBa.user.js
-// @downloadURL https://raw.githubusercontent.com/Lutz-Pfannenschmidt/BlaDaBa_util/refs/heads/main/KlaDaBa.user.js
-// @supportURL  https://github.com/Lutz-Pfannenschmidt/BlaDaBa_util/issues
+// @updateURL    https://raw.githubusercontent.com/Lutz-Pfannenschmidt/BlaDaBa_util/refs/heads/main/KlaDaBa.user.js
+// @downloadURL  https://raw.githubusercontent.com/Lutz-Pfannenschmidt/BlaDaBa_util/refs/heads/main/KlaDaBa.user.js
+// @supportURL   https://github.com/Lutz-Pfannenschmidt/BlaDaBa_util/issues
 // ==/UserScript==
 
 (function () {
